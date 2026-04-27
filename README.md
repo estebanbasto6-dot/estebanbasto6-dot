@@ -20,20 +20,11 @@
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
----
-
-## 🔥 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Conecta conmigo
-- 📧 Email: tucorreo@gmail.com
+- 📧 Email: estebanbasto6@gmail.com
 
 ---
 
